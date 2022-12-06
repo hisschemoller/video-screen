@@ -17,3 +17,12 @@ https://www.aliexpress.com/
   * 15.6"
   * 1366*768
   * https://www.alibaba.com/product-detail/LP156WH3-WHB-B156XW04-B156XTN04-XTN03-N156BGE_62424077451.html?spm=a2700.pccps_detail.0.0.47263cebnpPRcJ
+* LP171WP4 replacement screen/scherm
+  * € 24,99
+  * 17.1"
+  * 1440*900
+  * https://www.marktplaats.nl/v/hobby-en-vrije-tijd/elektronica-componenten/m1905234924-lp171wp4-replacement-screen-scherm
+* 17.1 inch LCD scherm 1920x1200 Mat 30Pin LTN170U1-L02
+  * € 59.69
+  * 1920x1200
+  * https://www.replacedirect.nl/product/p1030536/171-inch-lcd-scherm-1920x1200-mat-30pin.html?prrel=1377171
