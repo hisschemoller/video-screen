@@ -2,7 +2,7 @@
 
 Screen with Raspberry Pi to play video in a loop, all day long.
 
-## Screens
+## Schermen
 
 * Raspberry Pi 4 Touchscreen 7 10.1 Inch Ips Tft Lcd-scherm Ctp
   * € 40,35 / US$ 42,00
@@ -17,19 +17,33 @@ Screen with Raspberry Pi to play video in a loop, all day long.
   * 15.6"
   * 1366*768
   * https://www.alibaba.com/product-detail/LP156WH3-WHB-B156XW04-B156XTN04-XTN03-N156BGE_62424077451.html?spm=a2700.pccps_detail.0.0.47263cebnpPRcJ
-* LP171WP4 replacement screen/scherm
-  * € 24,99
-  * 17.1"
-  * 1440*900
-  * https://www.marktplaats.nl/v/hobby-en-vrije-tijd/elektronica-componenten/m1905234924-lp171wp4-replacement-screen-scherm
 * 17.1 inch LCD scherm 1920x1200 Mat 30Pin LTN170U1-L02
   * € 59.69
   * 1920x1200
   * https://www.replacedirect.nl/product/p1030536/171-inch-lcd-scherm-1920x1200-mat-30pin.html?prrel=1377171
+
+
+* LP171WP4 replacement screen/scherm
+  * € 24,99
+  * 17.1"
+  * 1440 * 900
+  * 30 pin
+  * https://www.marktplaats.nl/v/hobby-en-vrije-tijd/elektronica-componenten/m1905234924-lp171wp4-replacement-screen-scherm
+  * Ook hier:
+    * https://www.panelook.com/LP171WP4-TL04_LG%20Display_17.1_LCM_overview_5766.html
+    * https://www.panelook.com/LP171WP4-TL04_LG%20Display_17.1_LCM_parameter_5766.html
+    * Interface Type: LVDS (2 ch, 6-bit), 30 pins Connector
+    * Power Supply: 3.3V (Typ.)
+  * Controller board
+    * Controller Board Kit Voor LP171WP4-TL03 / LP171WP4-TL04 1440X900 Tv + Hdmi + Vga + Av + Usb Lcd Led Scherm driver Board
+    * € 22,84
+    * https://nl.aliexpress.com/i/1005001400436313.html?gatewayAdapt=glo2nld
+
+
 * LP173WD1 17.3 laptop scherm
   * € 24,99
   * 17.3"
-  * 1600x900
+  * 1600 x 900
   * https://www.marktplaats.nl/v/hobby-en-vrije-tijd/elektronica-componenten/m1905218353-lp173wd1-17-3-laptop-scherm?c=4dc4183dfac1254e7aa85845826d5acd
   * Is dezelfde als deze
     * 17.3 inch LCD screen B173RW01 v.3 LP173WD1 N173O6-L02 Rev.C1 LTN173KT01 N17306-l06 n173fge-l21 LTN173KT02 laptop Display matrix
@@ -39,7 +53,7 @@ Screen with Raspberry Pi to play video in a loop, all day long.
     * Interface: 40 pin
 
 
-## Laptop screen interface connecctors
+## Laptop screen interface connectors
 
 * 30-pin connector 
   * is the most common style in use today. It can support non-touch screens up to a resolution of 3840 x 2160.
@@ -57,7 +71,7 @@ Raspbery Pi heeft GPIO pins, heeft een adapter of controller board nodig om om t
 pin.
 
 
-## Definitions
+## Definities
 
 * DSI
   * Display Serial Interface
@@ -71,3 +85,10 @@ pin.
 * HDMI
   * High-Definition Multimedia Interface
   * https://en.wikipedia.org/wiki/HDMI
+* LVDS
+  * Low-voltage differential signaling
+  * https://en.wikipedia.org/wiki/Low-voltage_differential_signaling
+* WXGA+
+  * Display resolution of 1440 × 900
+  * https://en.wikipedia.org/wiki/Graphics_display_resolution#WXGA+_(1440%C3%97900)
+
