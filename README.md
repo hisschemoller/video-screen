@@ -2,7 +2,39 @@
 
 Screen with Raspberry Pi to play video in a loop, all day long.
 
-## Schermen
+## Scherm uit kapotte laptop
+
+Lenovo Thinkpad Carbon X1 2nd Gen<br>
+
+Rechtsboven achterkant:<br>
+8sst50f7853622xm44x010d<br>
+t09alfc14001a<br>
+P/N: ST50F78536<br>
+
+Rechtsonder achterkant:<br>
+P/N: SD10A09839<br>
+
+Dat scherm is "Lenovo Sd10a09839 ThinkPad X1 Carbon Non-touch LCD Screen ST50F78536"<br>
+MPN: ST50F78536<br>
+https://www.ebay.com/p/21012199771<br>
+https://nl.aliexpress.com/i/4000908519936.html?gatewayAdapt=glo2nld<br>
+New Genuine Lenovo ThinkPad X1 Carbon 14.0" NonTouch LCD Screen SD10A09839<br>
+https://www.ebay.com/itm/182870307134
+
+* Part Type: LCD Screen Only
+* Size: 14.0" WideScreen (12" x 7.4")
+* Resolution: QHD (2560 x 1440 px)
+* Surface Type: Glossy
+* Backlight Type: LED
+* Video Signal Connector: 40 pin LED Screen Socket
+* Price: US $179.95
+
+
+Lenovo 2nd Generation ThinkPad X1 Extreme Disassembly RAM SSD Hard Drive Upgrade Screen Replacement<br>
+https://www.youtube.com/watch?v=eUddTuBx8rM
+
+
+## Schermen te koop
 
 * Raspberry Pi 4 Touchscreen 7 10.1 Inch Ips Tft Lcd-scherm Ctp
   * € 40,35 / US$ 42,00
@@ -69,6 +101,16 @@ Screen with Raspberry Pi to play video in a loop, all day long.
 
 Raspbery Pi heeft GPIO pins, heeft een adapter of controller board nodig om om te zetten naar 40
 pin.
+
+
+## Tutorials
+
+* Home Raspberry Pi Desktop With Old Laptop Screen
+  * https://www.instructables.com/Home-Raspberry-Pi-Desktop-With-Old-Laptop-Screen/
+* Re-purposed Laptop Screen for Raspberry Pi
+  * https://www.instructables.com/Re-purposed-Laptop-Screen-for-Raspberry-Pi/
+
+
 
 
 ## Definities
