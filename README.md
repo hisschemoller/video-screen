@@ -55,6 +55,8 @@ https://www.youtube.com/watch?v=eUddTuBx8rM
   * https://www.replacedirect.nl/product/p1030536/171-inch-lcd-scherm-1920x1200-mat-30pin.html?prrel=1377171
 
 
+### Daan Electronica Marktplaats
+
 * LP171WP4 replacement screen/scherm
   * € 24,99
   * 17.1"
@@ -77,12 +79,23 @@ https://www.youtube.com/watch?v=eUddTuBx8rM
   * 17.3"
   * 1600 x 900
   * https://www.marktplaats.nl/v/hobby-en-vrije-tijd/elektronica-componenten/m1905218353-lp173wd1-17-3-laptop-scherm?c=4dc4183dfac1254e7aa85845826d5acd
-  * Is dezelfde als deze
+  * Is dezelfde als deze:
     * 17.3 inch LCD screen B173RW01 v.3 LP173WD1 N173O6-L02 Rev.C1 LTN173KT01 N17306-l06 n173fge-l21 LTN173KT02 laptop Display matrix
-    * € 56,96
-    *  https://www.aliexpress.com/item/32951610646.html?pdp_npi=2%40dis%21EUR%21%E2%82%AC%2056%2C96%21%E2%82%AC%2056%2C96%21%21%21%21%21%400b0a23a716705865526784943eb3cd%2112000024937336394%21btf&_t=pvid:3715ac21-678d-4eaa-92bc-966b2b1b2638&afTraceInfo=32951610646__pc__pcBridgePPC__xxxxxx__1670586552&spm=a2g0o.ppclist.product.mainProduct
-    * Model: Universal Screen
-    * Interface: 40 pin
+      * € 56,96
+      *  https://www.aliexpress.com/item/32951610646.html?pdp_npi=2%40dis%21EUR%21%E2%82%AC%2056%2C96%21%E2%82%AC%2056%2C96%21%21%21%21%21%400b0a23a716705865526784943eb3cd%2112000024937336394%21btf&_t=pvid:3715ac21-678d-4eaa-92bc-966b2b1b2638&afTraceInfo=32951610646__pc__pcBridgePPC__xxxxxx__1670586552&spm=a2g0o.ppclist.product.mainProduct
+      * Model: Universal Screen
+      * Interface: 40 pin
+    * 17.3 Inch LCD Scherm 1600x900 Glans 30Pin eDP
+      * https://www.replacedirect.nl/product/P0159399/173-inch-lcd-scherm-1600x900-glans-30pin-edp.html
+      * 30-Pin eDP
+
+
+* LP171WP4-TLN1 LG.Philips LCD
+  * € 24,99
+  * 1440 x 900
+  * 30 pins
+  * https://www.marktplaats.nl/v/hobby-en-vrije-tijd/elektronica-componenten/m1905221177-lg-philips-lcd-lp171wp4-tln1
+
 
 
 ## Laptop screen interface connectors
@@ -101,6 +114,10 @@ https://www.youtube.com/watch?v=eUddTuBx8rM
 
 Raspbery Pi heeft GPIO pins, heeft een adapter of controller board nodig om om te zetten naar 40
 pin.
+
+## Raspberry PI
+
+https://www.kiwi-electronics.com/nl/raspberry-pi-boards-behuizingen-uitbreidingen-en-accessoires-59
 
 
 ## Tutorials
@@ -130,7 +147,9 @@ pin.
 * LVDS
   * Low-voltage differential signaling
   * https://en.wikipedia.org/wiki/Low-voltage_differential_signaling
+* VGA
+  * Video Graphics Array
+  * https://en.wikipedia.org/wiki/Video_Graphics_Array
 * WXGA+
   * Display resolution of 1440 × 900
   * https://en.wikipedia.org/wiki/Graphics_display_resolution#WXGA+_(1440%C3%97900)
-
