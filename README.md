@@ -126,8 +126,8 @@ https://www.kiwi-electronics.com/nl/raspberry-pi-boards-behuizingen-uitbreidinge
   * https://www.instructables.com/Home-Raspberry-Pi-Desktop-With-Old-Laptop-Screen/
 * Re-purposed Laptop Screen for Raspberry Pi
   * https://www.instructables.com/Re-purposed-Laptop-Screen-for-Raspberry-Pi/
-
-
+* How to reuse laptop screen as a photo frame with Raspberry Pi
+  * https://www.youtube.com/watch?v=gxbf9-hnS1E&list=PLGAYeQfVTj5xQhI6aHrUpgWnag5BA_-zY&index=1
 
 
 ## Definities
