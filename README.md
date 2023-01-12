@@ -82,7 +82,7 @@ https://www.youtube.com/watch?v=eUddTuBx8rM
   * Is dezelfde als deze:
     * 17.3 inch LCD screen B173RW01 v.3 LP173WD1 N173O6-L02 Rev.C1 LTN173KT01 N17306-l06 n173fge-l21 LTN173KT02 laptop Display matrix
       * € 56,96
-      *  https://www.aliexpress.com/item/32951610646.html?pdp_npi=2%40dis%21EUR%21%E2%82%AC%2056%2C96%21%E2%82%AC%2056%2C96%21%21%21%21%21%400b0a23a716705865526784943eb3cd%2112000024937336394%21btf&_t=pvid:3715ac21-678d-4eaa-92bc-966b2b1b2638&afTraceInfo=32951610646__pc__pcBridgePPC__xxxxxx__1670586552&spm=a2g0o.ppclist.product.mainProduct
+      *  https://www.aliexpress.com/item/32951610646.html?pdp_npi=2%40dis%21EUR%  21%E2%82%AC%2056%2C96%21%E2%82%AC%2056%2C96%21%21%21%21%21%400b0a23a716705865526784943eb3cd%2112000024937336394%21btf&_t=pvid:3715ac21-678d-4eaa-92bc-966b2b1b2638&afTraceInfo=32951610646__pc__pcBridgePPC__xxxxxx__1670586552&spm=a2g0o.ppclist.product.mainProduct
       * Model: Universal Screen
       * Interface: 40 pin
     * 17.3 Inch LCD Scherm 1600x900 Glans 30Pin eDP

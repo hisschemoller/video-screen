@@ -3,7 +3,8 @@
 * € 24,99
 * 17.1"
 * 1440 * 900
-* 30 pin
+* Pin Pitch: 1.0 mm
+* Pins: 30 pins
 
 Marktplaats
 * https://www.marktplaats.nl/v/hobby-en-vrije-tijd/elektronica-componenten/m1905234924-lp171wp4-replacement-screen-scherm
@@ -14,10 +15,10 @@ Marktplaats
 ## Controller board
 
 Aliexpress
-* https://nl.aliexpress.com/i/1005001400436313.html?gatewayAdapt=glo2nld
+* https://nl.aliexpress.com/item/1005003178966547.html
 * Verkoper: Yqwsyxl LCD parts Store
-* Controller Board Kit Voor LP171WP4-TL03 / **LP171WP4-TL04** 1440X900 Tv + Hdmi + Vga + Av + Usb Lcd Led Scherm driver Board
-* Garantie: 60 dagen garantie.
+* Hd + Vga 2AV Control Board Kit Voor **LP171WP4** TLB1 / TLB2 / TLB3 / TLB4 / **TLB5** Lcd Led scherm Driver Board
+* € 19,52
 
 ### LCD Controller Board:
 
