@@ -19,36 +19,3 @@ Aliexpress
 * Verkoper: Yqwsyxl LCD parts Store
 * Hd + Vga 2AV Control Board Kit Voor **LP171WP4** TLB1 / TLB2 / TLB3 / TLB4 / **TLB5** Lcd Led scherm Driver Board
 * € 19,52
-
-### LCD Controller Board:
-
-HDMI VGA AV USB RF LCD Board Werk voor LVDS Interface Lcd-scherm
-
-Input Power Adapter:12Vdc Meer dan 2A.
-
-Komen In Standby Model Wanneer Niet Ingangssignaal
-
-USB Ondersteuning Video
-
-AV Compatibel Met PAL En NTSC
-
-Video Input: HDMI VGA AV USB RF
-
-Audio Input: HDMI PC-Audio
-
-Audio Output: Luidspreker Connector
-
-OSD: Helderheid Contrast Auto Taal En Dus Op
-
-Taal: Engels Frans Duits Spaans Italiaans En Dus Op
-
-Board Grootte: 188mm x 43mm x 17mm
-
-### Verpakking lijst:
-
-1 × HDMI + VGA + AV + USB RF LCD Controller Board
-1 × LVDS Signaal Kabel
-1 × Inverter Board
-1 × toetsenbord Met Kabel
-1 × Afstandsbediening (Batterij Niet inbegrepen)
-De adapter voeding vereist 12V 3A, niet inbegrepen; als je moet kopen de adapter voeding, klik op de bovenstaande vorm te kiezen te kopen, dank u!
