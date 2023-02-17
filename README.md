@@ -2,6 +2,12 @@
 
 Screen with Raspberry Pi to play video in a loop, all day long.
 
+Other Readme files:
+
+[LP173WD1-TLA1 with Raspberry Pi Zero](README_LP173WD1-TLA1.md)<br>
+[Raspberry Pi Zero](README_raspberry-pi-zero.md)<br>
+
+
 ## Scherm uit kapotte laptop
 
 Lenovo Thinkpad Carbon X1 2nd Gen<br>
