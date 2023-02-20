@@ -166,6 +166,32 @@ Re-open the video loop if it closes:
 /etc/init.d/videoloop repair
 ```
 
+## Connect over USB (USB gadget mode)
+
+Already done:
+
+* Raspberry PI OS on SD card.
+* Enable SSH: `touch ssh`.
+
+In file */boot/config.txt* add a new line at the end:
+
+```
+dtoverlay=dwc2	
+```
+
+In file */boot/cmdline.txt* add after `rootwait` the text `modules-load=dwc2,g_ether` so the total
+becomes:
+
+```
+console=serial0,115200 console=tty1 root=PARTUUID=a5c201d0-02 rootfstype=ext4 fsck.repair=yes rootwait modules-load=dwc2,g_ether
+```
+
+Remove file *wpa_supplicant.conf* if it was added earlier for WIFI access. (Was already gone??)
+
+On the Macbook open *Users/[User]/ssh/known_hosts* and delete the `raspberrypi.local` entries.
+
+STILL DOESN'T WORK.
+
 ## Tutorials
 
 * Play video in a loop
@@ -184,4 +210,11 @@ video art installations)
 		* https://www.realvnc.com/en/blog/how-to-setup-vnc-connect-raspberry-pi/
 	* How to Set Up a Headless Raspberry Pi, Without Ever Attaching a Monitor
 		* https://www.tomshardware.com/reviews/raspberry-pi-headless-setup-how-to,6028.html
-	
+* Connect via USB
+	* How to run Raspberry Pi Zero by a micro-USB cable and a Mac
+		* https://medium.com/@swiftycastle/how-to-run-raspberry-pi-zero-by-a-micro-usb-cable-and-a-mac-98a392059cc3
+	* Connect to Your Raspberry Pi Over USB Using Gadget Mode
+		* https://howchoo.com/pi/raspberry-pi-gadget-mode
+* Connect via WIFI
+	* How to setup multiple WiFi networks?
+		* https://raspberrypi.stackexchange.com/questions/11631/how-to-setup-multiple-wifi-networks
