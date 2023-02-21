@@ -186,11 +186,24 @@ becomes:
 console=serial0,115200 console=tty1 root=PARTUUID=a5c201d0-02 rootfstype=ext4 fsck.repair=yes rootwait modules-load=dwc2,g_ether
 ```
 
-Remove file *wpa_supplicant.conf* if it was added earlier for WIFI access. (Was already gone??)
+### To disable WIFI and it's settings
 
 On the Macbook open *Users/[User]/ssh/known_hosts* and delete the `raspberrypi.local` entries.
 
-STILL DOESN'T WORK.
+Create an empty */boot/wpa_supplicant.conf* that will overwrite the previous one:
+
+```
+ctrl_interface=DIR=/var/run/wpa_supplicant GROUP=netdev
+update_config=1
+country=DE
+```
+
+In file */boot/config.txt* add after `# /boot/overlays/README`:
+
+```
+dtoverlay=disable-wifi
+dtoverlay=disable-bt # bluetooth as well, maybe not needed.
+```
 
 ## Tutorials
 
@@ -218,3 +231,6 @@ video art installations)
 * Connect via WIFI
 	* How to setup multiple WiFi networks?
 		* https://raspberrypi.stackexchange.com/questions/11631/how-to-setup-multiple-wifi-networks
+* Disable WIFI
+	* 7 Ways to Disable Wi-Fi on Raspberry Pi
+		* https://raspberrytips.com/disable-wifi-raspberry-pi/
