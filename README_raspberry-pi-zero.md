@@ -81,6 +81,14 @@ Ja! Nu heb ik een desktop in VNC Viewer. Maar heb ik die eigenlijk nodig?
 Copy a video file to `/boot`.<br>
 `/boot/wouter_hisschemoller_-_rembrandtplein_x8_-_2022.mp4`
 
+Files currently on the card:
+
+```
+/boot/video/wouter_hisschemoller_-_piazza_maggiore_x1_-_2022.mp4
+/boot/video/wouter_hisschemoller_-_rembrandtplein_x1_-_2022.mp4
+/boot/video/30_seconds_of_frame_counter.mp4
+```
+
 Install the libraries
 ```
 ssh pi@raspberrypi.local
@@ -109,7 +117,7 @@ In nano, paste this code
 ### END INIT INFO
 
 # Video (replace with the path and file name of your video)
-video_path=/boot/wouter_hisschemoller_-_rembrandtplein_x8_-_2022.mp4
+video_path=/boot/video/30_seconds_of_frame_counter.mp4
 
 #---- There should be no need to edit anything below this line ----
 
