@@ -2,8 +2,12 @@
 
 * Raspberry Pi Zero W
 * € 18,50
+* BCM2835 (zelfde als de Pi 1) maar geclocked op 1GHz (40% sneller)
+* 512 MB RAM
+* 802.11 b/g/n Wireless LAN
+* Bluetooth 4.1
+* Bluetooth Low Energy (BLE)
 * https://www.kiwi-electronics.com/nl/raspberry-pi-zero-w-2852
-
 
 ![Connections](assets/images/raspberry-pi-zero-connections.jpg 'Connections')
 
@@ -172,6 +176,13 @@ Stop the video loop
 Re-open the video loop if it closes:
 ```
 /etc/init.d/videoloop repair
+```
+
+### Video autoplay on boot
+
+```
+sudo update-rc.d videoloop defaults
+sudo reboot
 ```
 
 ## Connect over USB (USB gadget mode)
